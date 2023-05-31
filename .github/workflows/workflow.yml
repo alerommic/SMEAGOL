@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: probando
-      run: echo "job de prueba para dar tiempo
+      run: echo "job de prueba para dar tiempo"
         
   deploy:
     runs-on: ubuntu-latest
